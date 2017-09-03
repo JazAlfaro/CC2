@@ -1,1 +1,1 @@
-# CC2
+# Ciencia de la Computación 2
